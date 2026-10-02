@@ -6,7 +6,7 @@ This project analyzes the **IMDb Top 1000 Movies dataset** using Python and Powe
 
 - Top-rated movies analysis
 - Genre analysis
-- Movie rating distribution
+- Rating distribution
 - Votes vs. IMDb rating analysis using Linear Regression
 - Director analysis
 - Year-wise movie trends
@@ -23,7 +23,7 @@ This project analyzes the **IMDb Top 1000 Movies dataset** using Python and Powe
 
 ## Dataset
 
-The project uses the **IMDb Top 1000 Movies dataset** containing information about movies, including:
+The project uses the **IMDb Top 1000 Movies dataset**, containing information such as:
 
 - Movie titles
 - IMDb ratings
@@ -38,34 +38,35 @@ The Python analysis includes:
 
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
-- Rating distribution analysis
+- Top-rated movie analysis
 - Genre analysis
-- Top-rated movies
-- Director-based analysis
+- Rating distribution
+- Director analysis
 - Year-wise trends
 - Votes vs. IMDb rating analysis
 - Linear Regression
 
 ## Power BI Dashboard
 
-An interactive **Power BI dashboard** was created to visualize the IMDb movie data and present key insights.
+An interactive **Power BI dashboard** was created to visualize the IMDb Top 1000 Movies dataset and present key insights.
 
-### Dashboard Analysis
+### Dashboard Preview
 
-- Movie rating analysis
-- Genre analysis
-- Director analysis
-- Year-wise trends
-- Rating distributions
-- Movie insights
+![IMDb Power BI Dashboard](images/powerbi/dashboard-overview.jpeg)
 
-### Power BI Dashboard File
+### Rating Analysis
 
-The Power BI dashboard file is available here:
+![IMDb Rating Analysis](images/powerbi/dashboard-ratings.jpeg)
+
+### Additional Analysis
+
+![IMDb Dashboard Analysis](images/powerbi/dashboard-analysis.jpeg)
+
+### Download Power BI Dashboard
 
 [Download IMDb Power BI Dashboard](powerBi/IMDb_Top_1000_Dashboard.pbix)
 
-## Screenshots
+## Python Analysis Screenshots
 
 ### Top Movies
 
